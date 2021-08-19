@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadiq41
 - 👀 I’m interested in cybersecurity,AI,Web develepment
-- 🌱 I’m currently learning B.Tech CS
+- 🌱 I’m currently an undergraduate B.Tech CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :sadiqsonu41@gmail.com
 <!---
